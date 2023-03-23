@@ -1,4 +1,4 @@
 # chat-with-ur-computer
-a project pygame bot-like, you can to chat with him too!
+a game project done with Godot Engine, you can to chat with your virtual friend and play with him too!
 
-it's in process...
+COMMING SOON
