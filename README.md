@@ -1,4 +1,4 @@
-# chat-with-ur-computer 🗣
+# chat-with-ur-computer 💻🕹🗣
 (SEPTEMBER 2024)
 Hi!, i'm back with a new game project, it will be done with Godot Engine!
 
