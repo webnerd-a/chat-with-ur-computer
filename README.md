@@ -1,7 +1,15 @@
 # chat-with-ur-computer 💻🕹🗣
-(SEPTEMBER 2024)
-Hi!, i'm back with a new game project, it will be done with Godot Engine!
+(JUNE 2025)
+Hi!, i'm alygoaty, i'm a new gamdev trying to back this project again.. it will be made with godot engine!
 
-in the game, you can to chat with your virtual friend and play with him too with some games incluided!
+(JULY 2025)
+???
 
--COMING SOON..., I'M MAKING DESIGN AND A WIKI FOR THIS GAME-
+DESCRIPTION:
+in the game, you can to chat with your virtual friend, its just a computer right? 
+
+you can to play with him too! 
+
+With some mini-games incluided!
+
+-COMING SOON...-
