@@ -3,7 +3,8 @@
 Hi!, i'm alygoaty, i'm a new gamdev trying to back this project again.. it will be made with godot engine!
     - Some ideas, sketches from game design first-
     - Drag some sprites for the PROTOTYPE, then i'm gonna draw some my own sprites someday, YEA
-    - some level design and testing for this game, i hope you enjoy playing this...
+    - some level design and testing for this game, i hope you enjoy playing THIS...
+
 (JULY 2025)
 ???
 
