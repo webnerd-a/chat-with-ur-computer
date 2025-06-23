@@ -6,10 +6,10 @@ Hi!, i'm alygoaty, i'm a new gamdev trying to back this project again.. it will 
 ???
 
 DESCRIPTION:
-in the game, you can to chat with your virtual friend, its just a computer right? 
+in the game, you're THE PLAYER, you SHOULD to avoid obstacles with SPIKES, EXPLOSIONS, A-AND... can chat with your virtual friend, its just a good computer right? 
 
 you can to play with him too! 
 
-With some mini-games incluided!
+With some mini-games incluided *laugh evil*!
 
 -COMING SOON...-
